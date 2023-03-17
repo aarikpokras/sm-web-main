@@ -1,1 +1,4 @@
-# sm-web-main
+# Free Web Hosting
+Paths: `web.aarikpokras.com`/`user`/`site name`
+
+Contact me@aarikpokras.com
